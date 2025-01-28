@@ -1,0 +1,3 @@
+# Code owners for YAML files
+*.yml @online-marathon
+*.yaml @online-marathon
